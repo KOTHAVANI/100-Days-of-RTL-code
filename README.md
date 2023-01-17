@@ -26,4 +26,4 @@ Day 12 : Seven Segment Display
 
 Day 13 : Decimal to Binary Encoder
 
-Day 14 : Serial Adder using Shift Registers
+Day 14 : Serial Input Serial Output using D-Flipflop
