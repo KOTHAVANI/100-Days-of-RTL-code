@@ -3,7 +3,7 @@ input clock, reset, d_in;
 output q, q_bar;
 reg q;
 
-assign q_bar = q;
+assign q_bar = ~q;
 
 always @ ( posedge clock )
 begin
