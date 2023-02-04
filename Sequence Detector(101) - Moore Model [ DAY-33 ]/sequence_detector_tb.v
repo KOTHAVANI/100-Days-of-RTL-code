@@ -3,7 +3,6 @@ module sequence_detector_tb();
 reg  din,clock,reset;
 wire dout;
 parameter CYCLE = 10;
-integer i;
 		
 sequence_detector dut(.seq_in(din), .clock(clock), .reset(reset), .det_o(dout));
  
@@ -21,7 +20,7 @@ din = 0;
 end
 endtask
 					 
-task delay();
+task delay(input integer i);
 begin
 #i;
 end
@@ -44,12 +43,12 @@ end
 endtask				 
    
 initial 
-$monitor("Reset=%b, state=%b, Din=%b, Output Dout=%b", reset,state,din,dout);
+$monitor("Reset=%b, state=%b, Din=%b, Output Dout=%b", reset,dut.state,din,dout);
 								
-always@(state or dout)
+always@(dut.state or dout)
 begin
-if(state==2'b11 && dout==1)
-$display("Correct output at state %b", state);
+if(dut.state==2'b11 && dout==1)
+$display("Correct output at state %b", dut.state);
 end
 		
 initial
