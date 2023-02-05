@@ -27,3 +27,43 @@ Day 12 : Seven Segment Display
 Day 13 : Decimal to Binary Encoder
 
 Day 14 : Serial Input Serial Output using D-Flipflop
+
+Day 15 : Digital Clock using BCD Counter
+
+Day 16 : Synchronous Counter 
+
+Day 17 : PISO Shift Register
+
+Day 18 : 4-Bit Parallel Adder
+
+Day 19 : SIPO Shift Register
+
+Day 20 : Johnson Counter
+
+Day 21 : Shift Operations
+
+Day 22 : Modulo-N- Bit-Counter
+
+Day 23 : N-Bit-Parity-Generator
+
+Day 24 : Parameterised Reflected Binary Counter
+
+Day 25 : Multiplexer using Transmission Gate
+
+Day 26 : Single Port RAM 
+
+Day 27 : N-BIT BCD Adder
+
+Day 28 : Frequency Divider by Odd Number
+
+Day 29 : Dual Port RAM
+
+Day 30 : Greatest Common Divisor
+
+Day 31 : Greatest Common Divisor via Data Path and Controller
+
+Day 32 : Factorial
+
+Day 33 : Sequence Detector(101)- Moore Model
+
+Day 34 : Clock Buffer
