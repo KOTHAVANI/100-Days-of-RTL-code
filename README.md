@@ -69,3 +69,5 @@ Day 33 : Sequence Detector(101)- Moore Model
 Day 34 : Clock Buffer
 
 Day 35 : Synchronous FIFO
+
+Day 36 : Priority Encoder
