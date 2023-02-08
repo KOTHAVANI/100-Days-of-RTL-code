@@ -48,7 +48,7 @@ Day 23 : N-Bit-Parity-Generator
 
 Day 24 : Parameterised Reflected Binary Counter
 
-Day 25 : Multiplexer using Transmission Gate
+Day 25 : Multiplexer using Tristate Buffer
 
 Day 26 : Single Port RAM 
 
