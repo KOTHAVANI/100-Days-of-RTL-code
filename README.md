@@ -71,3 +71,37 @@ Day 34 : Clock Buffer
 Day 35 : Synchronous FIFO
 
 Day 36 : Priority Encoder
+
+Day 37 : Universal Shift Register
+
+Day 38 : Serial Adder
+
+Day 39 : N Bit Comparator
+
+Day 40 : Carry Skip Adder
+
+
+
+// System Verilog Codes
+
+
+
+Day 41 : TB to print " Hello World " in SV
+
+Day 42 : TB to verify Logic datatype in SV
+
+Day 43 : TB to verify Unpacked Struct datatype in SV
+
+Day 44 : TB to verify Packed Struct datatype in SV
+
+Day 45 : TB to verify Array types in SV
+
+Day 46 : TB to verify Functions in SV
+
+Day 47 : TB to verify Tasks in SV
+
+Day 48 : TB Interface to verify ALU 
+
+Day 49 : TB to verify Object Assignment copy and Shallow copy
+
+Day 50 : TB to verify Deep copy
