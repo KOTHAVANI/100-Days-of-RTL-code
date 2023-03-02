@@ -111,3 +111,11 @@ Day 53 : TB to verify Static function and Function Static methods
 Day 54 : TB to verify Parameterized Class
 
 Day 55 : TB to verify Randomization
+
+Day 56 : TB to verify Clocking Blocks(Adder circuit)
+
+Day 57 : TB to verify Threads[fork-join_none]
+
+Day 58 : TB to verify Threads[fork-join]
+
+Day 59 : TB to verify Threads[fork-join_any]
