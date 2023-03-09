@@ -125,3 +125,11 @@ Day 60 : TB to verify Events
 Day 61 : TB to verify Mailbox(Example-1)
 
 Day 62 : TB for sending transaction data using Mailbox(Example-2)
+
+Day 63 : TB to verify Parameterized Mailbox
+
+Day 64 : TB to verify Semaphore
+
+Day 65 : TB to verify wait-fork
+
+Day 66 : TB to verify Automatic Variables
