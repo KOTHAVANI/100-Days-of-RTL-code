@@ -133,3 +133,11 @@ Day 64 : TB to verify Semaphore
 Day 65 : TB to verify wait-fork
 
 Day 66 : TB to verify Automatic Variables
+
+Day 67 : TB to verify Half Subtractor
+
+Day 68 : TB to verify Full Subtractor
+
+Day 69 : TB to verify Encoder
+
+Day 70 : TB to verify Decoder
