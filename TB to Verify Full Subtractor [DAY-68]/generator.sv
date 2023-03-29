@@ -1,3 +1,4 @@
+//generator.sv
 class generator;
 //instating this transaction
 transaction tr;
