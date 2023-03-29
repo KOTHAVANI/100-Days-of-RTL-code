@@ -138,8 +138,4 @@ Day 67 : TB to verify Half Subtractor
 
 Day 68 : TB to verify Full Subtractor
 
-Day 69 : TB to verify Codec (Encoder and Decoder)
-
-Day 70 : TB to verify Mux&demux
-
-Day 71 : TB to verify SR Flipflop
+Day 69 : TB to verify Full Adder using Multiplexer
