@@ -4,7 +4,7 @@ module HS(a, b, borrow, difference);
 input a,b;
 output borrow, difference;
   
-assign borrow = a^b;
-assign difference =~a & b; 
+assign difference = a^b;
+assign borrow =~a & b; 
   
 endmodule
