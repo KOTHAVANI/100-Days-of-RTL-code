@@ -1,0 +1,22 @@
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Injecting error pkt
+# KERNEL: Sending packet = BAD_3
+# KERNEL: Injecting error pkt
+# KERNEL: Sending packet = BAD_2
+# KERNEL: Injecting error pkt
+# KERNEL: Sending packet = BAD_2
+# KERNEL: Injecting error pkt
+# KERNEL: Sending packet = BAD_3
+# KERNEL: Injecting error pkt
+# KERNEL: Sending packet = BAD_2
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Sending packet = GOOD
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
