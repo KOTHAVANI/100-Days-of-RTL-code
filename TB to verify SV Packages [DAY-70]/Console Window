@@ -1,0 +1,5 @@
+# KERNEL: pkg_1 : Inside pkg_funct, no_of_transactions = 9
+# KERNEL: pkg_2: Inside pkg_funct, no_of_transactions = 14
+# KERNEL: pkg_3: Inside pkg_funct, no_of_transactions = 24
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
