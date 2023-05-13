@@ -1,0 +1,13 @@
+# KERNEL: Before inline constraint:  data = 4
+# KERNEL: After inline constraint:  data = 9
+# KERNEL: Before inline constraint:  data = 9
+# KERNEL: After inline constraint:  data = 9
+# KERNEL: Before inline constraint:  data = 3
+# KERNEL: After inline constraint:  data = 9
+# KERNEL: Before inline constraint:  data = 6
+# KERNEL: After inline constraint:  data = 9
+# KERNEL: Before inline constraint:  data = 1
+# KERNEL: After inline constraint:  data = 9
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
