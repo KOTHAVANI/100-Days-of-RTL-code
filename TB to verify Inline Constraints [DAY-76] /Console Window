@@ -1,0 +1,18 @@
+# KERNEL: Before inline constraint: addr = 11, data = 0
+# KERNEL: randomization success
+# KERNEL: After inline constraint: addr = 10, data = 0
+# KERNEL: Before inline constraint: addr = 8, data = 0
+# KERNEL: randomization success
+# KERNEL: After inline constraint: addr = 10, data = 0
+# KERNEL: Before inline constraint: addr = 9, data = 0
+# KERNEL: randomization success
+# KERNEL: After inline constraint: addr = 10, data = 0
+# KERNEL: Before inline constraint: addr = 8, data = 0
+# KERNEL: randomization success
+# KERNEL: After inline constraint: addr = 10, data = 0
+# KERNEL: Before inline constraint: addr = 8, data = 0
+# KERNEL: randomization success
+# KERNEL: After inline constraint: addr = 10, data = 0
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
