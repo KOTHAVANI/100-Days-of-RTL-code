@@ -141,3 +141,43 @@ Day 68 : TB to verify Full Subtractor
 Day 69 : TB to verify Full Adder using Multiplexer
 
 Day 70 : TB to verify SystemVerilog Packages
+
+Day 71 : TB to verify Demultiplexer in SV
+
+Day 72 : TB to verify Callback mechanism in SV
+
+Day 73 : TB to verify Transmission Gate
+
+Day 74 : TB to verify Seven Segment Decoder
+
+Day 75 : TB to verify Parity Generator
+
+Day 76 : TB to verify Inline Constraints
+
+Day 77 : TB to verify Soft Constraints
+
+Day 78 : constraints ex
+
+Day 79 : constraints ex
+
+Day 80 : constraint ex
+
+Day 81 : TB to verify D-Flipflop
+
+Day 82 : TB to verify T-Flipflop
+
+Day 83 : TB to verify counter
+
+Day 84 : TB to verify LIFO
+
+Day 85 : verify ..
+
+Day 86 : // functional coverage
+
+Day 87 :
+
+Day 88 :
+
+Day 89 :
+
+Day 90 :
