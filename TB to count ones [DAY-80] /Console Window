@@ -1,0 +1,11 @@
+# KERNEL: value : 1011100011,	 number of ones :  6
+# KERNEL: value : 0011001100,	 number of ones :  4
+# KERNEL: value : 0001100010,	 number of ones :  3
+# KERNEL: value : 1001111010,	 number of ones :  6
+# KERNEL: value : 1100101100,	 number of ones :  5
+# KERNEL: value : 0010001111,	 number of ones :  5
+# KERNEL: value : 1101011100,	 number of ones :  6
+# KERNEL: value : 0011000100,	 number of ones :  3
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
