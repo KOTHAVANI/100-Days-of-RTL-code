@@ -156,7 +156,7 @@ Day 76 : TB to verify Inline Constraints
 
 Day 77 : TB to verify Soft Constraints
 
-Day 78 : constraints ex
+Day 78 : TB Constraint to generate a pattern 01112131415161718191
 
 Day 79 : constraints ex
 
