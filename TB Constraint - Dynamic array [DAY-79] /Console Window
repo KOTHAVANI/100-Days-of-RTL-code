@@ -1,0 +1,7 @@
+# KERNEL: my_array = '{15, 13, 0, 10, 8, 12, 4, 3, 9}
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (18): $finish called.
+# KERNEL: Time: 0 ns,  Iteration: 0,  Instance: /array_randomization,  Process: @INITIAL#27_0@.
+# KERNEL: stopped at time: 0 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done
