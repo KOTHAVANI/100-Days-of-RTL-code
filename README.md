@@ -158,7 +158,8 @@ Day 77 : TB to verify Soft Constraints
 
 Day 78 : TB Constraint to generate a pattern 01112131415161718191
 
-Day 79 : constraints ex
+Day 79 : TB Constraint to generate a dynamic array with random but unique  values without using sv unique constraint
+
 
 Day 80 : constraint ex
 
