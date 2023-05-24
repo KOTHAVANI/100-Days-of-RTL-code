@@ -165,15 +165,15 @@ Day 80 : TB to count number of ones in an array
 
 Day 81 : Immediate Assertion Example
 
-Day 82 : TB to verify T-Flipflop
+Day 82 : Concurrent Assertion Example
 
-Day 83 : TB to verify counter
+Day 83 : 
 
-Day 84 : TB to verify LIFO
+Day 84 : 
 
-Day 85 : verify ..
+Day 85 :
 
-Day 86 : // functional coverage
+Day 86 : 
 
 Day 87 :
 
