@@ -1,0 +1,18 @@
+# KERNEL: [10] a=0 b=0
+# ASSERT: Error: ASRT_0005 testbench.sv(18): Assertion FAILED at time: 10ns, scope: concurrent_ass, start-time: 10ns
+# KERNEL: [30] a=0 b=1
+# KERNEL: [50] a=1 b=1
+# ASSERT: Error: ASRT_0005 testbench.sv(18): Assertion FAILED at time: 50ns, scope: concurrent_ass, start-time: 50ns
+# KERNEL: [70] a=1 b=1
+# KERNEL: [90] a=1 b=0
+# KERNEL: [110] a=1 b=1
+# ASSERT: Error: ASRT_0005 testbench.sv(18): Assertion FAILED at time: 110ns, scope: concurrent_ass, start-time: 110ns
+# KERNEL: [130] a=0 b=1
+# KERNEL: [150] a=1 b=0
+# KERNEL: [170] a=1 b=0
+# KERNEL: [190] a=1 b=0
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (13): $finish called.
+# KERNEL: Time: 200 ns,  Iteration: 0,  Instance: /concurrent_ass,  Process: @INITIAL#6_1@.
+# KERNEL: stopped at time: 200 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
