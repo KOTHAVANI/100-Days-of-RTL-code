@@ -1,0 +1,9 @@
+# ASSERT: Error: ASRT_0301 testbench.sv(19): Immediate assert condition (a&&b) FAILED at time: 15ns, scope: imm_ass
+# ASSERT: Error: ASRT_0301 testbench.sv(19): Immediate assert condition (a&&b) FAILED at time: 25ns, scope: imm_ass
+# ASSERT: Error: ASRT_0301 testbench.sv(19): Immediate assert condition (a&&b) FAILED at time: 35ns, scope: imm_ass
+# ASSERT: Error: ASRT_0301 testbench.sv(19): Immediate assert condition (a&&b) FAILED at time: 45ns, scope: imm_ass
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (13): $finish called.
+# KERNEL: Time: 60 ns,  Iteration: 0,  Instance: /imm_ass,  Process: @INITIAL#5_1@.
+# KERNEL: stopped at time: 60 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
