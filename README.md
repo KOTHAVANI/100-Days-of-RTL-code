@@ -163,7 +163,7 @@ Day 79 : TB Constraint to generate a dynamic array with random but unique       
 
 Day 80 : TB to count number of ones in an array
 
-Day 81 : TB to verify D-Flipflop
+Day 81 : Immediate Assertion Example
 
 Day 82 : TB to verify T-Flipflop
 
