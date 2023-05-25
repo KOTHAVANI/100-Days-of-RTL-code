@@ -167,9 +167,9 @@ Day 81 : Immediate Assertion Example
 
 Day 82 : Concurrent Assertion Example
 
-Day 83 : SVA Sequences Example
+Day 83 : Sequences in Assertions
 
-Day 84 : 
+Day 84 : System Verilog Assertions Example-1
 
 Day 85 :
 
