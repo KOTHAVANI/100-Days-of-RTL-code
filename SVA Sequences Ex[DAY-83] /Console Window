@@ -1,0 +1,13 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_1" FAILED at time: 25ns, scope: sva_seq_ex, start-time: 25ns
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_1" FAILED at time: 25ns, scope: sva_seq_ex, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(30): Assertion "a_2" FAILED at time: 25ns, scope: sva_seq_ex, start-time: 25ns
+# ASSERT: Error: ASRT_0005 testbench.sv(31): Assertion "a_3" FAILED at time: 25ns, scope: sva_seq_ex, start-time: 25ns
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_1" FAILED at time: 35ns, scope: sva_seq_ex, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_1" FAILED at time: 45ns, scope: sva_seq_ex, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(30): Assertion "a_2" FAILED at time: 45ns, scope: sva_seq_ex, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(31): Assertion "a_3" FAILED at time: 45ns, scope: sva_seq_ex, start-time: 45ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (11): $finish called.
+# KERNEL: Time: 55 ns,  Iteration: 0,  Instance: /sva_seq_ex,  Process: @INITIAL#4_1@.
+# KERNEL: stopped at time: 55 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
