@@ -1,0 +1,7 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(21): Assertion "Toggle" FAILED at time: 15ns, scope: SVA_Example, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(20): Assertion "NC" FAILED at time: 25ns, scope: SVA_Example, start-time: 15ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (11): $finish called.
+# KERNEL: Time: 40 ns,  Iteration: 0,  Instance: /SVA_Example,  Process: @INITIAL#5_1@.
+# KERNEL: stopped at time: 40 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
