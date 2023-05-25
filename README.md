@@ -171,7 +171,7 @@ Day 83 : Sequences in Assertions
 
 Day 84 : System Verilog Assertions Example-1
 
-Day 85 :
+Day 85 : SVA Overlapped Implication Operator 
 
 Day 86 : 
 
