@@ -22,7 +22,7 @@ module non_consecutive_repetition_operator;
     $finish;
   end
   
-  //  non-consecutive_repetition_operator [*n]
+  //  non-consecutive_repetition_operator [=n]
   property p;
     @(posedge clk) $rose(a) |=> ##1 (b[=2]) ##1 c;
   endproperty    
