@@ -176,8 +176,10 @@ Day 86 : SVA Non-Overlapped Implication Operator
 
 Day 87 : System Verilog Assertions Example-2
 
-Day 88 :
+Day 88 : SVA Consecutive Repetition Operator
 
-Day 89 :
+Day 89 : SVA Non-Consecutive Repetition Operator
 
-Day 90 :
+Day 90 : SVA Go to Repetition Operator
+
+Day 91 : System Verilog Assertions Example-3
