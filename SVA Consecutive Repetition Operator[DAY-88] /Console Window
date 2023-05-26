@@ -1,0 +1,7 @@
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# ASSERT: Error: ASRT_0005 testbench.sv(29): Assertion "a_1" FAILED at time: 165ns, scope: consecutive_repetition_operator, start-time: 125ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (21): $finish called.
+# KERNEL: Time: 170 ns,  Iteration: 0,  Instance: /consecutive_repetition_operator,  Process: @INITIAL#7_1@.
+# KERNEL: stopped at time: 170 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
