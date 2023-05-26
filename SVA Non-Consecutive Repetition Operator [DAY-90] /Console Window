@@ -1,0 +1,6 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_1" FAILED at time: 115ns, scope: non_consecutive_repetition_operator, start-time: 65ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (19): $finish called.
+# KERNEL: Time: 140 ns,  Iteration: 0,  Instance: /non_consecutive_repetition_operator,  Process: @INITIAL#4_1@.
+# KERNEL: stopped at time: 140 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
