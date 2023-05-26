@@ -1,0 +1,7 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(21): Assertion "a_1" FAILED at time: 45ns, scope: SVA_Example, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(21): Assertion "a_1" FAILED at time: 65ns, scope: SVA_Example, start-time: 55ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (15): $finish called.
+# KERNEL: Time: 80 ns,  Iteration: 0,  Instance: /SVA_Example,  Process: @INITIAL#5_1@.
+# KERNEL: stopped at time: 80 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
