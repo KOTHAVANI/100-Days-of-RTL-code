@@ -183,3 +183,21 @@ Day 89 : SVA Go to Repetition Operator
 Day 90 : SVA Non-Consecutive Repetition Operator
 
 Day 91 : System Verilog Assertions Example-3
+
+Day 92 :
+
+Day 93 :
+
+Day 94 :
+
+Day 95 :
+
+Day 96 :
+
+Day 97 :
+
+Day 98 :
+
+Day 99 :
+
+Day 100 :
