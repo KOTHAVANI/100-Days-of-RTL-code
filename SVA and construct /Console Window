@@ -1,0 +1,9 @@
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 55ns, scope: and_construct, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 85ns, scope: and_construct, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 115ns, scope: and_construct, start-time: 105ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (23): $finish called.
+# KERNEL: Time: 140 ns,  Iteration: 0,  Instance: /and_construct,  Process: @INITIAL#8_1@.
+# KERNEL: stopped at time: 140 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
