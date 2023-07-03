@@ -196,7 +196,7 @@ Day 95 : SVA Sequence Composition - throughout construct
 
 Day 96 : SVA Sequence Composition - within construct
 
-Day 97 : SVA Sequence Composition - first_match construct
+Day 97 : 
 
 Day 98 :
 
