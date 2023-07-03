@@ -186,17 +186,17 @@ Day 90 : SVA Non-Consecutive Repetition Operator
 
 Day 91 : System Verilog Assertions Example-3
 
-Day 92 :
+Day 92 : SVA Sequence Composition - and construct
 
-Day 93 :
+Day 93 : SVA Sequence Composition - or construct
 
-Day 94 :
+Day 94 : SVA Sequence Composition - intersect construct
 
-Day 95 :
+Day 95 : SVA Sequence Composition - throughout construct
 
-Day 96 :
+Day 96 : SVA Sequence Composition - within construct
 
-Day 97 :
+Day 97 : SVA Sequence Composition - first_match construct
 
 Day 98 :
 
