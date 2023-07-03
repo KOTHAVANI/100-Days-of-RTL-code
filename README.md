@@ -196,10 +196,10 @@ Day 95 : SVA Sequence Composition - throughout construct
 
 Day 96 : SVA Sequence Composition - within construct
 
-Day 97 : 
+Day 97 : SVA Sequence Composition - first_match construct
 
-Day 98 :
+Day 98 : SVA - Forbidding a property
 
-Day 99 :
+Day 99 : SVA System Functions
 
-Day 100 :
+Day 100 : System Verilog Assertions Example-4
