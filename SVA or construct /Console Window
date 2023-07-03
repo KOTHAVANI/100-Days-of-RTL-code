@@ -1,0 +1,7 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 65ns, scope: or_construct, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(40): Assertion "a_1" FAILED at time: 95ns, scope: or_construct, start-time: 65ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (23): $finish called.
+# KERNEL: Time: 140 ns,  Iteration: 0,  Instance: /or_construct,  Process: @INITIAL#8_1@.
+# KERNEL: stopped at time: 140 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
