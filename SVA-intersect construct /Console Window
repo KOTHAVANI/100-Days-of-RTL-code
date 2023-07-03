@@ -1,0 +1,6 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(35): Assertion "a_1" FAILED at time: 95ns, scope: intersect_construct, start-time: 65ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (18): $finish called.
+# KERNEL: Time: 110 ns,  Iteration: 0,  Instance: /intersect_construct,  Process: @INITIAL#8_1@.
+# KERNEL: stopped at time: 110 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
