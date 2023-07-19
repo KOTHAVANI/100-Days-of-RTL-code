@@ -1,0 +1,8 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_1" FAILED at time: 15ns, scope: forbidding_property, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_1" FAILED at time: 55ns, scope: forbidding_property, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_1" FAILED at time: 65ns, scope: forbidding_property, start-time: 55ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (13): $finish called.
+# KERNEL: Time: 80 ns,  Iteration: 0,  Instance: /forbidding_property,  Process: @INITIAL#4_1@.
+# KERNEL: stopped at time: 80 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
