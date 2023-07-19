@@ -200,6 +200,6 @@ Day 97 : SVA Sequence Composition - first_match construct
 
 Day 98 : SVA - Forbidding a property
 
-Day 99 : SVA Synchronous FIFO
+Day 99 : SVA System Functions
 
-Day 100 : Write assertions for a simple Round Robin arbiter 
+Day 100 : SVA Synchronous FIFO 
