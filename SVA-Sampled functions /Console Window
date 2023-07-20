@@ -1,0 +1,31 @@
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 5ns, scope: sampled_value_functions, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 5ns, scope: sampled_value_functions, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(27): Assertion "a_4" FAILED at time: 5ns, scope: sampled_value_functions, start-time: 5ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 15ns, scope: sampled_value_functions, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 15ns, scope: sampled_value_functions, start-time: 15ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 25ns, scope: sampled_value_functions, start-time: 25ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 25ns, scope: sampled_value_functions, start-time: 25ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 35ns, scope: sampled_value_functions, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 35ns, scope: sampled_value_functions, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(27): Assertion "a_4" FAILED at time: 35ns, scope: sampled_value_functions, start-time: 35ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 45ns, scope: sampled_value_functions, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 45ns, scope: sampled_value_functions, start-time: 45ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 55ns, scope: sampled_value_functions, start-time: 55ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 55ns, scope: sampled_value_functions, start-time: 55ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 65ns, scope: sampled_value_functions, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 65ns, scope: sampled_value_functions, start-time: 65ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 75ns, scope: sampled_value_functions, start-time: 75ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 75ns, scope: sampled_value_functions, start-time: 75ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 85ns, scope: sampled_value_functions, start-time: 85ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 85ns, scope: sampled_value_functions, start-time: 85ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 95ns, scope: sampled_value_functions, start-time: 95ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 95ns, scope: sampled_value_functions, start-time: 95ns
+# ASSERT: Error: ASRT_0005 testbench.sv(25): Assertion "a_2" FAILED at time: 105ns, scope: sampled_value_functions, start-time: 105ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 105ns, scope: sampled_value_functions, start-time: 105ns
+# ASSERT: Error: ASRT_0005 testbench.sv(24): Assertion "a_1" FAILED at time: 115ns, scope: sampled_value_functions, start-time: 115ns
+# ASSERT: Error: ASRT_0005 testbench.sv(26): Assertion "a_3" FAILED at time: 115ns, scope: sampled_value_functions, start-time: 115ns
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (41): $finish called.
+# KERNEL: Time: 125 ns,  Iteration: 0,  Instance: /sampled_value_functions,  Process: @INITIAL#28_1@.
+# KERNEL: stopped at time: 125 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
